@@ -4,7 +4,7 @@ body {
 
 h1 {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 50px;
+    font-size: 40px;
     margin: 50px 0;
     text-align: center;
     text-shadow: 2px 2px 2px white;
@@ -79,8 +79,8 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 30vh;
-    margin-top: -100px;
+    height: 25vh;
+    margin-top: -80px;
   }
 
 
